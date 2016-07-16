@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* facebookbot.facebook.bot.jersey.heroku.Main
